@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1643554975 source:c:\users\kacpe\onedrive\pulpit\programy porównawcze\main\main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+	"rapidcsv.h"
+	<string>
+	<random>
+	<cstdlib>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
+1629027352 c:\users\kacpe\onedrive\pulpit\programy porównawcze\main\rapidcsv.h
+	<algorithm>
+	<cassert>
+	<cmath>
+	<codecvt>
+	<locale>
+	<fstream>
+	<functional>
+	<iostream>
+	<map>
+	<sstream>
+	<string>
+	<typeinfo>
+	<vector>
+	<BaseTsd.h>
+
+1643561702 source:c:\users\jakub\downloads\praca zaliczeniowa-20220130t162833z-001\praca zaliczeniowa\main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+	"rapidcsv.h"
+	<string>
+	<random>
+	<cstdlib>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
+1643560218 c:\users\jakub\downloads\praca zaliczeniowa-20220130t162833z-001\praca zaliczeniowa\rapidcsv.h
+	<algorithm>
+	<cassert>
+	<cmath>
+	<codecvt>
+	<locale>
+	<fstream>
+	<functional>
+	<iostream>
+	<map>
+	<sstream>
+	<string>
+	<typeinfo>
+	<vector>
+	<BaseTsd.h>
+
